@@ -17,6 +17,7 @@ Lien vers le projet : https://aperbet56.github.io/file_upload/
 - Page web responsive
 - Desktop first
 - Importation de la police "Poppins"
+- Icone provenant de Font Awesome
 - Utilisation d'un normaliseur : le fichier normalize.css
 - JavaScript
 - Code JavaScript commenté
