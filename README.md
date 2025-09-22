@@ -1,5 +1,9 @@
 ## TELECHARGEMENT DE FICHIER PAR GLISSER-DEPOSER (FILE UPLOAD : DRAG AND DROP IMAGE FILE OR BROWSE)
 
+![Design preview for the project](./img/preview.png)
+
+![Design preview for the project](./img/preview-1.png)
+
 ## Le challenge
 
 J'ai voulu coder un projet permettant à l'utilisateur un téléchargement de fichiers par glisser-déposer en utilisant le HTML5, le CSS3 et le JavaScript. L'internaute peut télécharger le fichier en cliquant sur la zone de dépôt ou en faisant glisser et déposer le fichier image. Un aperçu de l'image avant le téléchargement s'affiche à l'écran.
@@ -8,7 +12,7 @@ J'ai voulu coder un projet permettant à l'utilisateur un téléchargement de fi
 
 Lien vers le projet : https://aperbet56.github.io/file_upload/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS3
